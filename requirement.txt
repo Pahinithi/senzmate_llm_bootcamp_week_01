@@ -1,7 +1,6 @@
-fastapi[standard]
-google-generativeai
-PyPDF2
-python-dotenv
-python-multipart
-uvicorn
-reportlab
+fastapi[standard]==0.119.1
+google-generativeai== 0.8.5
+PyPDF2==3.0.1
+python-dotenv==1.1.1
+python-multipart==0.0.20
+reportlab==4.4.4
